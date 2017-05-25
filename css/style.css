@@ -1,0 +1,29 @@
+#background{
+  background-color: white;
+}
+
+h1{
+  font-size: 50px;
+}
+
+h2{
+  font-size: 23px;
+}
+
+#mainWell{
+  max-width: 1000px;
+  min-width: 500px;
+  background-color: #e6e6e6;
+}
+
+#pictureWell{
+  background-color: #f8f8f8;
+}
+
+#timeline{
+  padding: 0px 100px 0px 100px;
+}
+
+ul {
+  list-style-position: inside;
+}
